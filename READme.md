@@ -13,12 +13,12 @@ A fun interactive website to generate unique band names with multiple features!
 
 ## 🚀 Live Demo
 
-[GitHub Pages Link](https://yourusername.github.io/band-name-generator-advanced/)
+[GitHub Pages Link](https://DarshanSKReddy.github.io/band-name-generator-advanced/)
 
 ## 🛠️ Usage
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/band-name-generator-advanced.git
+git clone https://github.com/DarshanSKReddy/band-name-generator-advanced.git
 
